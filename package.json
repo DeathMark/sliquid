@@ -1,6 +1,6 @@
 {
   "name": "sliquid",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The improvement for tinyliquid",
   "main": "/lib/index.js",
   "scripts": {
