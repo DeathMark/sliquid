@@ -1,0 +1,33 @@
+{
+  "name": "sliquid",
+  "version": "1.0.0",
+  "description": "The improvement for tinyliquid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeathMark/sliquid.git"
+  },
+  "keywords": [
+    "liquid",
+    "shopify",
+    "liquid"
+  ],
+  "author": "Tuan Pham",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DeathMark/sliquid/issues"
+  },
+  "homepage": "https://github.com/DeathMark/sliquid#readme",
+  "devDependencies": {
+    "async": "^2.4.0",
+    "blanket": "^1.2.3",
+    "browserify": "^14.3.0",
+    "ejs": "^2.5.6",
+    "lodash": "^4.17.4",
+    "mocha": "^3.3.0",
+    "uglify-js": "^2.8.22"
+  }
+}
