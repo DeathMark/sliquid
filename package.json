@@ -1,8 +1,8 @@
 {
   "name": "sliquid",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "The improvement for tinyliquid",
-  "main": "/lib/index.js",
+  "main": "./lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
